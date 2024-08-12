@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "marca": "Ray-Ban",
+    "categoria": "Aviator",
+    "tipo": "Gafas de sol",
+    "precio": 150,
+    "material": "Metal",
+    "color": "Dorado",
+    "imagen": "https://images2.ray-ban.com//cdn-record-files-pi/b0799d1d-9777-41aa-9cf2-add700280204/115ce6db-1774-4ab8-ab43-add700280366/0RB3625__9196G6__STD__shad__qt.png?impolicy=RB_Product_clone&width=800&bgc=%23f2f2f2"
+  },
+  {
+    "id": 2,
+    "marca": "Oakley",
+    "categoria": "cuadradas",
+    "tipo": "Gafas de sol",
+    "precio": 130,
+    "material": "Plástico",
+    "color": "Negro",
+    "imagen": "https://copservir.vtexassets.com/arquivos/ids/1073599-800-auto?v=638336978754270000&width=800&height=auto&aspect=true"
+  },
+  {
+    "id": 3,
+    "marca": "Persol",
+    "categoria": "cuadradas",
+    "tipo": "Gafas de sol",
+    "precio": 200,
+    "material": "Acetato",
+    "color": "Havana",
+    "imagen": "https://mwhite.com.co/cdn/shop/files/persol-m24-31-gafas-de-sol-191.webp?v=1713411634"
+  },
+  {
+    "id": 4,
+    "marca": "Gucci",
+    "categoria": "Circulares",
+    "tipo": "Gafas de sol",
+    "precio": 280,
+    "material": "Metal",
+    "color": "Oro rosa",
+    "imagen": "https://mwhite.com.co/cdn/shop/files/gucci-gg0061s-gafas-de-sol-426.webp?v=1714843878"
+  },
+  {
+    "id": 5,
+    "marca": "Prada",
+    "categoria": "cat-eye",
+    "tipo": "Gafas de sol",
+    "precio": 250,
+    "material": "Acetato",
+    "color": "Negro",
+    "imagen": "https://m.media-amazon.com/images/I/51GkyUJtCZL._AC_UL1333_.jpg"
+  },
+  {
+    "id": 6,
+    "marca": "Versace",
+    "categoria": "VE2163",
+    "tipo": "Gafas de sol",
+    "precio": 220,
+    "material": "Metal",
+    "color": "Plata",
+    "imagen": "https://assets.sunglasshut.com/is/image/LuxotticaRetail/8053672441901_030A.png?impolicy=SEO_1x1"
+  },
+  {
+    "id": 7,
+    "marca": "Tom Ford",
+    "categoria": "Cuadradas",
+    "tipo": "Gafas de sol",
+    "precio": 320,
+    "material": "Metal y acetato",
+    "color": "Negro",
+    "imagen": "https://pretavoir.co.uk/cdn/shop/products/tom-ford-snowdon-tf0237-05b-hd-1.jpg?v=1611920765"
+  },
+  {
+    "id": 8,
+    "marca": "Chanel",
+    "categoria": "cat-eye",
+    "tipo": "Gafas de sol",
+    "precio": 340,
+    "material": "Acetato",
+    "color": "Tortoiseshell",
+    "imagen": "data:image/jpeg;base64,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"
+  },
+  {
+    "id": 9,
+    "marca": "Dior",
+    "categoria": "Circulares",
+    "tipo": "Gafas de sol",
+    "precio": 370,
+    "material": "Metal",
+    "color": "Dorado",
+    "imagen": "data:image/jpeg;base64,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"
+  },
+  {
+    "id": 10,
+    "marca": "Cartier",
+    "categoria": "Aviator",
+    "tipo": "Gafas de sol",
+    "precio": 500,
+    "material": "Metal",
+    "color": "Platino",
+    "imagen": "https://int.cartier.com/content/dam/rcq/car/A5/pb/1I/0O/00/SN/18/La/Ce/cG/MA/A5pb1I0O00SN18LaCecGMA.png.scale.600.high.gafas-de-sol-santos-de-cartier-metal.png"
+  }
+]
